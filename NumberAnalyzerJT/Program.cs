@@ -11,9 +11,9 @@ namespace NumberAnalyzerJT
         public static void Main()
         {
             Console.WriteLine("Hello. Welcome to the Number Analyzer Program. Please enter your username to get started.");
-            string name = Console.ReadLine();
+            string name = Console.ReadLine(); //saving username as "name"
             
-            bool Start = true; //Starting Loop to restart program
+            bool Start = true; //Start of loop to restart program
             while (Start)
             {
                 Console.WriteLine("Alright {0}, please enter an integer between 1 to 100.", name);
