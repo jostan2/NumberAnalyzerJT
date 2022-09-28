@@ -3,6 +3,7 @@
 //The application prompts the user to enter an integer between 1 and 100.
 //Display the associated result based on the integer range entered
 
+//9/28/22 update to test git pulling
 
 namespace NumberAnalyzerJT
 {
